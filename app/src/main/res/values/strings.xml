@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aula1310</string>
+    <string name="tv_home">Olá Mundo !</string>
+    <string name="app_sub">Home</string>
+    <string name="add">adicionar Item</string>
+    <string name="notification">Notificações</string>
+
+</resources>
